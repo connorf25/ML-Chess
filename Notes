@@ -1,1 +1,5 @@
 Read representations section of https://arxiv.org/pdf/1712.01815.pdf
+
+How alphazero works: https://augmentedlawyer.com/2019/01/27/how-alphazero-works/#:~:text=AlphaZero%20evaluates%20the%20move%20candidates,move%20from%20the%20given%20position.&text=AlphaZero%20evaluates%20positions%20non%2Dlinearly,used%20in%20typical%20chess%20programs.
+
+Mia chess processed dataset: http://csslab.cs.toronto.edu/datasets/#maia_kdd
